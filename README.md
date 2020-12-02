@@ -1,0 +1,2 @@
+# Entrepreneur theme
+ for Wordpress
