@@ -6,9 +6,6 @@
 1. Duplicate the `local-example.json` file to `local.json`, then replace the `proxy` value with your local 
 development hostname
    - This will allow you to use live reload/injection while working on your CSS/JS
-1. Run a search & replace across the theme to replace all instances of 'WpTailwindCssThemeBoilerplate' with a PHP 
-namespace specific to your theme/project
-1. Change the theme information in `style.css`
 1. Activate your theme
 1. Run `npm run dev` and start coding
    
